@@ -5,3 +5,5 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:bamboozjy/xixunyun.git
 git push -u origin master
+
+tag 1.0.0
